@@ -1,1 +1,19 @@
 /* your code */
+th,table{
+	border:solid black;
+}
+th{
+	background-color:blue;
+}
+.first{
+	background-color:white;
+}
+table{
+	width:80%;
+}
+.sec{
+	background-color:grey;
+}
+th,tr,td{
+	text-align:center;
+}
